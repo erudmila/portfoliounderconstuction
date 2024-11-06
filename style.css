@@ -3,7 +3,7 @@ body {
 	font-family: 'Sintony', sans-serif;
 	color: #e5e5e5;
 	font-size: 12px;
-	background: #bfbfbf;
+	background: #ffe6e6;
 	line-height: 1;
 }
 *, *:before, *:after {
@@ -92,10 +92,10 @@ display:none;
     border-radius: 3px;
     padding: 3px 6px;
 	display: block;
-	border-bottom:1px solid #E67248;
-	    box-shadow: 0 1px 2px #e67248;
-		-webkit-box-shadow: 0 1px 2px #e67248;
-		-moz-box-shadow: 0 1px 2px #e67248;
+	border-bottom:1px solid #e0b1b1;
+	    box-shadow: 0 1px 2px #e0b1b1;
+		-webkit-box-shadow: 0 1px 2px #e0b1b1;
+		-moz-box-shadow: 0 1px 2px #e0b1b1;
 }
 .xs-menu-cont > a:hover{
  cursor: pointer;
